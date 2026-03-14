@@ -22,10 +22,10 @@
 ### $ curl -s https://aayush.dev/bio
 
 ```text
-> [IDENTITY]   Full Stack / DevOps / AI Explorer
+> [IDENTITY]   Full Stack / DevOps / AI 
 > [FOCUS]      Building scalable apps & automating workflows
 > [ACADEMIC]   B.E. Computer Engineering
-> [STATUS]     OPEN_TO_WORK // Ready to ship
+> [STATUS]     OPEN_TO_WORK 
 ```
 
 ---
