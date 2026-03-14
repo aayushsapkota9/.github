@@ -19,36 +19,36 @@
  |_|  \___/|____|____| |___/ |_/_/ \_\___|_|\_\ /_/   |___/|___| \_/ \___/|_|  |___/
 ```
 
-### 🚀 ~> finger aayush
+### $ whoami
 
 **Name:** Aayush Sapkota
 **Occupation:** Full Stack Web Developer | DevOps Enthusiast | Freelancer
 **Education:** Pursuing Bachelor's in Computer Engineering
-**Status:** ✨ Open to Work / New Opportunities
+**Status:** Open to Work / New Opportunities
 
 ---
 
-### 📂 ~> ls -la projects/
+### $ ls projects/
 
-*   🇳🇵 [**Nepal House**](https://www.nepalhouse.no/) - Authentic Taste of Nepal
-*   🇯🇵 [**Starlight LLC**](https://starlightllc.jp/) - Global Solutions & Web Platform
-*   🛠️ [**ToolsMandu**](https://toolsmandu.com/) - All-in-one Developer Utility Suite
-*   📈 [**MeroShare Services**](https://github.com/aayushsapkota9/nest-meroshare-services) - NestJS Portfolio Management
-*   🌾 [**Krishi Connect**](https://play.google.com/store/apps/details?id=app.krishiconnect) - Empowering Farmers (Backend)
-*   ⏳ [**Pomodoro Neon**](https://pomodoro-neon-xi.vercel.app/) - Aesthetic Focus Timer
-*   🏆 [**CODEFEST**](https://github.com/aayushsapkota9/CODEFEST-checkmate) - Checkmate Hackathon Project
+*   [**Nepal House**](https://www.nepalhouse.no/) - Authentic Taste of Nepal
+*   [**Starlight LLC**](https://starlightllc.jp/) - Global Solutions & Web Platform
+*   [**ToolsMandu**](https://toolsmandu.com/) - All-in-one Developer Utility Suite
+*   [**MeroShare Services**](https://github.com/aayushsapkota9/nest-meroshare-services) - NestJS Portfolio Management
+*   [**Krishi Connect**](https://play.google.com/store/apps/details?id=app.krishiconnect) - Empowering Farmers (Backend)
+*   [**Pomodoro Neon**](https://pomodoro-neon-xi.vercel.app/) - Aesthetic Focus Timer
+*   [**CODEFEST**](https://github.com/aayushsapkota9/CODEFEST-checkmate) - Checkmate Hackathon Project
 
 ---
 
-### 🛠️ ~> ls skills/
+### $ ls skills/
 
-*   **Web:** React, Next.js, TypeScript, Tailwind, Node.js, FastAPI, Python
+*   **Web:** React, Next.js, TypeScript, Node.js, FastAPI, Python
 *   **DevOps:** AWS, Docker, Kubernetes, GitHub Actions
 *   **AI/ML:** LangChain, OpenAI, Computer Vision (OpenCV)
 
 ---
 
-### 📫 ~> cat contact.txt
+### $ cat contact.txt
 
 *   **LinkedIn**: [linkedin.com/in/aayushsapkota9](https://linkedin.com/in/aayushsapkota9)
 *   **Facebook**: [facebook.com/aayushhsapkota9](https://facebook.com/aayushhsapkota9/)
@@ -58,9 +58,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushsapkota9&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7&bg_color=1a1b26" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushsapkota9&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayushsapkota9&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aayushsapkota9&color=grey&style=flat-square&label=VISITS" alt="Profile Views" />
 </p>
