@@ -44,13 +44,13 @@ drwxr-xr-x  aayush  staff  [ CODEFEST ](https://github.com/aayushsapkota9/CODEFE
 ```
 
 <p align="left">
-  <a href="https://www.nepalhouse.no/"><img src="https://img.shields.io/badge/Nepal_House-333333?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://starlightllc.jp/"><img src="https://img.shields.io/badge/Starlight_LLC-333333?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://toolsmandu.com/"><img src="https://img.shields.io/badge/ToolsMandu-333333?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/aayushsapkota9/nest-meroshare-services"><img src="https://img.shields.io/badge/MeroShare-333333?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://play.google.com/store/apps/details?id=app.krishiconnect"><img src="https://img.shields.io/badge/Krishi_Connect-333333?style=flat-square&logo=googleplay&logoColor=white" /></a>
-  <a href="https://pomodoro-neon-xi.vercel.app/"><img src="https://img.shields.io/badge/Pomodoro_Neon-333333?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/aayushsapkota9/CODEFEST-checkmate"><img src="https://img.shields.io/badge/CODEFEST-333333?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.nepalhouse.no/" target="_blank"><img src="https://img.shields.io/badge/Nepal_House-333333?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAbElEQVR4nGNgYGBgYOBiYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGDAAAAA//8DAP//Nf8C/8cAAAA="&logoColor=white" /></a>
+  <a href="https://starlightllc.jp/" target="_blank"><img src="https://img.shields.io/badge/Starlight_LLC-333333?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAbElEQVR4nGNgYGBgYOBiYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGDAAAAA//8DAP//Nf8C/8cAAAA="&logoColor=white" /></a>
+  <a href="https://toolsmandu.com/" target="_blank"><img src="https://img.shields.io/badge/ToolsMandu-333333?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAbElEQVR4nGNgYGBgYOBiYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGDAAAAA//8DAP//Nf8C/8cAAAA="&logoColor=white" /></a>
+  <a href="https://github.com/aayushsapkota9/nest-meroshare-services" target="_blank"><img src="https://img.shields.io/badge/MeroShare-333333?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=app.krishiconnect" target="_blank"><img src="https://img.shields.io/badge/Krishi_Connect-333333?style=flat-square&logo=googleplay&logoColor=white" /></a>
+  <a href="https://pomodoro-neon-xi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Pomodoro_Neon-333333?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/aayushsapkota9/CODEFEST-checkmate" target="_blank"><img src="https://img.shields.io/badge/CODEFEST-333333?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -76,6 +76,12 @@ drwxr-xr-x  aayush  staff  [ CODEFEST ](https://github.com/aayushsapkota9/CODEFE
 │   ├── nginx
 │   ├── git
 │   └── terraform
+├── embedded-robotics/
+│   ├── arduino
+│   ├── c/c++
+│   ├── assembly
+│   ├── robotics-control
+│   └── esp32
 └── ai-research/
     ├── pytorch/tensorflow
     ├── opencv
@@ -83,7 +89,7 @@ drwxr-xr-x  aayush  staff  [ CODEFEST ](https://github.com/aayushsapkota9/CODEFE
 ```
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,fastapi,python,mongodb,postgresql,tailwind,aws,docker,kubernetes,githubactions,linux,nginx,git,terraform,pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,fastapi,python,mongodb,postgresql,tailwind,aws,docker,kubernetes,githubactions,linux,nginx,git,terraform,arduino,cpp,c,pytorch,tensorflow,opencv" />
 </p>
 
 ---
