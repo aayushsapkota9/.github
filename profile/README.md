@@ -19,12 +19,14 @@
  |_|  \___/|____|____| |___/ |_/_/ \_\___|_|\_\ /_/   |___/|___| \_/ \___/|_|  |___/
 ```
 
-### $ whoami
+### $ curl -s https://aayush.dev/bio
 
-**Name:** Aayush Sapkota
-**Occupation:** Full Stack Web Developer | DevOps Enthusiast | Freelancer
-**Education:** Pursuing Bachelor's in Computer Engineering
-**Status:** Open to Work / New Opportunities
+```text
+> [IDENTITY]   Full Stack / DevOps / AI Explorer
+> [FOCUS]      Building scalable apps & automating workflows
+> [ACADEMIC]   B.E. Computer Engineering
+> [STATUS]     OPEN_TO_WORK // Ready to ship
+```
 
 ---
 
@@ -42,9 +44,21 @@
 
 ### $ ls skills/
 
-*   **Web:** React, Next.js, TypeScript, Node.js, FastAPI, Python
-*   **DevOps:** AWS, Docker, Kubernetes, GitHub Actions
-*   **AI/ML:** LangChain, OpenAI, Computer Vision (OpenCV)
+**Web Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,fastapi,python,mongodb,postgresql,tailwind" />
+</p>
+
+**DevOps & Infrastructure**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,nginx,git,terraform" />
+</p>
+
+**AI & Research**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
 
 ---
 
