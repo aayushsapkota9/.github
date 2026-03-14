@@ -19,45 +19,61 @@
  |_|  \___/|____|____| |___/ |_/_/ \_\___|_|\_\ /_/   |___/|___| \_/ \___/|_|  |___/
 ```
 
-### $ curl -s https://aayush.dev/bio
+### $ curl -s https://github.com/aayushsapkota9
 
 ```text
-> [IDENTITY]   Full Stack / DevOps / AI 
+> [IDENTITY]   Full Stack / DevOps / AI Explorer
 > [FOCUS]      Building scalable apps & automating workflows
 > [ACADEMIC]   B.E. Computer Engineering
-> [STATUS]     OPEN_TO_WORK 
+> [STATUS]     OPEN_TO_WORK // Ready to ship
 ```
 
 ---
 
-### $ ls projects/
+### $ ls -l projects/
 
-*   [**Nepal House**](https://www.nepalhouse.no/) - Authentic Taste of Nepal
-*   [**Starlight LLC**](https://starlightllc.jp/) - Global Solutions & Web Platform
-*   [**ToolsMandu**](https://toolsmandu.com/) - All-in-one Developer Utility Suite
-*   [**MeroShare Services**](https://github.com/aayushsapkota9/nest-meroshare-services) - NestJS Portfolio Management
-*   [**Krishi Connect**](https://play.google.com/store/apps/details?id=app.krishiconnect) - Empowering Farmers (Backend)
-*   [**Pomodoro Neon**](https://pomodoro-neon-xi.vercel.app/) - Aesthetic Focus Timer
-*   [**CODEFEST**](https://github.com/aayushsapkota9/CODEFEST-checkmate) - Checkmate Hackathon Project
+```text
+total 7
+drwxr-xr-x  aayush  staff  [ Nepal House ](https://www.nepalhouse.no/)
+drwxr-xr-x  aayush  staff  [ Starlight LLC ](https://starlightllc.jp/)
+drwxr-xr-x  aayush  staff  [ ToolsMandu ](https://toolsmandu.com/)
+drwxr-xr-x  aayush  staff  [ MeroShare Services ](https://github.com/aayushsapkota9/nest-meroshare-services)
+drwxr-xr-x  aayush  staff  [ Krishi Connect ](https://play.google.com/store/apps/details?id=app.krishiconnect)
+drwxr-xr-x  aayush  staff  [ Pomodoro Neon ](https://pomodoro-neon-xi.vercel.app/)
+drwxr-xr-x  aayush  staff  [ CODEFEST ](https://github.com/aayushsapkota9/CODEFEST-checkmate)
+```
 
 ---
 
-### $ ls skills/
+### $ tree skills/
 
-**Web Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,fastapi,python,mongodb,postgresql,tailwind" />
-</p>
+```text
+.
+├── web/
+│   ├── react
+│   ├── nextjs
+│   ├── typescript
+│   ├── nodejs/express
+│   ├── fastapi/python
+│   ├── mongodb/postgresql
+│   └── tailwind
+├── devops/
+│   ├── aws
+│   ├── docker
+│   ├── kubernetes
+│   ├── github-actions
+│   ├── linux
+│   ├── nginx
+│   ├── git
+│   └── terraform
+└── ai-research/
+    ├── pytorch/tensorflow
+    ├── opencv
+    └── langchain
+```
 
-**DevOps & Infrastructure**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,nginx,git,terraform" />
-</p>
-
-**AI & Research**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,fastapi,python,mongodb,postgresql,tailwind,aws,docker,kubernetes,githubactions,linux,nginx,git,terraform,pytorch,tensorflow,opencv" />
 </p>
 
 ---
