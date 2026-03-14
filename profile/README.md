@@ -1,93 +1,64 @@
-# 👋 Hi, I'm Aayush Sapkota!
+```text
+      ___           ___           ___           ___           ___           ___     
+     /\  \         /\  \         |\__\         /\__\         /\  \         /\__\    
+    /::\  \       /::\  \        |:|  |       /:/  /        /::\  \       /:/  /    
+   /:/\:\  \     /:/\:\  \       |:|  |      /:/  /        /:/\ \  \     /:/__/     
+  /::\~\:\  \   /::\~\:\  \      |:|__|__   /:/  /  ___   _\:\~\ \  \   /::\  \ ___ 
+ /:/\:\ \:\__\ /:/\:\ \:\__\     /::::\__\ /:/__/  /\__\ /\ \:\ \ \__\ /:/\:\  /\__\
+ \/__\:\/:/  / \/__\:\/:/  /    /:/~~/~    \:\  \ /:/  / \:\ \:\ \/__/ \/__\:\/:/  /
+      \::/  /       \::/  /    /:/  /       \:\  /:/  /   \:\ \:\__\        \::/  / 
+      /:/  /        /:/  /     \/__/         \:\/:/  /     \:\/:/  /        /:/  /  
+     /:/  /        /:/  /                     \::/  /       \::/  /        /:/  /   
+     \/__/         \/__/                       \/__/         \/__/         \/__/
+```
+
+```text
+  ___ _   _ _    _      ___ _____ _   ___ _  __    __  ___  _____   _____  ___  ___ 
+ | __| | | | |  | |    / __|_   _/_\ / __| |/ /   / / |   \| __\ \ / / _ \| _ \/ __|
+ | _|| |_| | |__| |__  \__ \ | |/ _ \ (__| ' <   / /  | |) | _| \ V / (_) |  _/\__ \
+ |_|  \___/|____|____| |___/ |_/_/ \_\___|_|\_\ /_/   |___/|___| \_/ \___/|_|  |___/
+```
+
+### 🚀 ~> finger aayush
+
+**Name:** Aayush Sapkota
+**Occupation:** Full Stack Web Developer | DevOps Enthusiast | Freelancer
+**Education:** Pursuing Bachelor's in Computer Engineering
+**Status:** ✨ Open to Work / New Opportunities
+
+---
+
+### 📂 ~> ls -la projects/
+
+*   🇳🇵 [**Nepal House**](https://www.nepalhouse.no/) - Authentic Taste of Nepal
+*   🇯🇵 [**Starlight LLC**](https://starlightllc.jp/) - Global Solutions & Web Platform
+*   🛠️ [**ToolsMandu**](https://toolsmandu.com/) - All-in-one Developer Utility Suite
+*   📈 [**MeroShare Services**](https://github.com/aayushsapkota9/nest-meroshare-services) - NestJS Portfolio Management
+*   🌾 [**Krishi Connect**](https://play.google.com/store/apps/details?id=app.krishiconnect) - Empowering Farmers (Backend)
+*   ⏳ [**Pomodoro Neon**](https://pomodoro-neon-xi.vercel.app/) - Aesthetic Focus Timer
+*   🏆 [**CODEFEST**](https://github.com/aayushsapkota9/CODEFEST-checkmate) - Checkmate Hackathon Project
+
+---
+
+### 🛠️ ~> ls skills/
+
+*   **Web:** React, Next.js, TypeScript, Tailwind, Node.js, FastAPI, Python
+*   **DevOps:** AWS, Docker, Kubernetes, GitHub Actions
+*   **AI/ML:** LangChain, OpenAI, Computer Vision (OpenCV)
+
+---
+
+### 📫 ~> cat contact.txt
+
+*   **LinkedIn**: [linkedin.com/in/aayushsapkota9](https://linkedin.com/in/aayushsapkota9)
+*   **Facebook**: [facebook.com/aayushhsapkota9](https://facebook.com/aayushhsapkota9/)
+*   **Email**: [aayushsapkota9@gmail.com](mailto:aayushsapkota9@gmail.com)
+*   **WeChat**: aayushsapkota9
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20%7C%20DevOps%20%7C%20AI%20Explorer&fontSize=40&animation=fadeIn&fontAlignY=35&theme=tokyonight" width="100%" />
-</p>
-
-### 🚀 About Me
-I'm a **Full Stack Web Developer**, **Freelancer**, and **DevOps Enthusiast** currently pursuing my **Bachelor's in Computer Engineering**.
-
-**✨ Open to Work / New Opportunities** — Passionate about building scalable applications, automating workflows, and exploring the frontiers of AI/ML.
-
----
-
-### 📊 My GitHub Journey (Bento Grid)
-
-<p align="center">
-  <a href="https://github.com/aayushsapkota9">
-    <img src="https://github-readme-stats.vercel.app/api?username=aayushsapkota9&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7&bg_color=1a1b26" alt="Aayush's GitHub Stats" />
-  </a>
-  <a href="https://github.com/aayushsapkota9">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsapkota9&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce&bg_color=1a1b26" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aayushsapkota9">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsapkota9&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakNum=7aa2f7" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack & Skills
-
-#### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### ⚙️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-#### 🧠 AI & Machine Learning
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 🌟 Featured Projects
-
-<div align="center">
-
-#### 💼 Commercial / Live Projects
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| 🇳🇵 **Nepal House** | Authentic Taste of Nepal | [Visit Site](https://www.nepalhouse.no/) |
-| 🇯🇵 **Starlight LLC** | Global Solutions & Web Platform | [Visit Site](https://starlightllc.jp/) |
-| 🛠️ **ToolsMandu** | All-in-one Developer Utility Suite | [Visit Site](https://toolsmandu.com/) |
-| 📈 **MeroShare Services** | NestJS-based Portfolio Management | [View Repo](https://github.com/aayushsapkota9/nest-meroshare-services) |
-
-#### 🌐 Full Stack & Mobile
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| 🌾 **Krishi Connect** | Empowering Farmers (Backend) | [Play Store](https://play.google.com/store/apps/details?id=app.krishiconnect) |
-| ⏳ **Pomodoro Neon** | Aesthetic Focus Timer & Calendar | [Demo](https://pomodoro-neon-xi.vercel.app/) |
-| 🏆 **CODEFEST** | Checkmate Hackathon Project | [Repo](https://github.com/aayushsapkota9/CODEFEST-checkmate) |
-
-#### 🤖 Robotics & AI
-| Category | Projects |
-| :--- | :--- |
-| **Robotics** | Vector Maze Solver, Line Following, PID Bot, Soccer Bot |
-| **AI/ML** | Handwriting Recognition, Captcha Solver, ML From Scratch |
-
-</div>
-
----
-
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/aayushsapkota9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/aayushhsapkota9/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:aayushsapkota9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/WeChat-aayushsapkota9-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushsapkota9&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7&bg_color=1a1b26" alt="GitHub Stats" />
 </p>
 
 <p align="center">
