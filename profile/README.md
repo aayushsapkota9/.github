@@ -5,7 +5,9 @@
 </p>
 
 ### 🚀 About Me
-I'm a **Full Stack Web Developer** and **DevOps Enthusiast** currently interning as a **Software Development Intern at Empire Life**. I'm passionate about building scalable applications, automating workflows, and exploring the frontiers of AI/ML.
+I'm a **Full Stack Web Developer**, **Freelancer**, and **DevOps Enthusiast** currently pursuing my **Bachelor's in Computer Engineering**.
+
+**✨ Open to Work / New Opportunities** — Passionate about building scalable applications, automating workflows, and exploring the frontiers of AI/ML.
 
 ---
 
@@ -42,7 +44,6 @@ I'm a **Full Stack Web Developer** and **DevOps Enthusiast** currently interning
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 #### 🧠 AI & Machine Learning
@@ -53,9 +54,31 @@ I'm a **Full Stack Web Developer** and **DevOps Enthusiast** currently interning
 ---
 
 ### 🌟 Featured Projects
-- [**SwiftTrade**](https://github.com/aayushsapkota9/SwiftTrade) - A comprehensive MERN stack e-commerce platform.
-- [**MERN Ride Sharing**](https://github.com/aayushsapkota9/MERN-Ride-Sharing) - Real-time ride-sharing application.
-- [**DevOps-Broadway**](https://github.com/aayushsapkota9/DevOps-Broadway) - Professional DevOps training resources and practices.
+
+<div align="center">
+
+#### 💼 Commercial / Live Projects
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| 🇳🇵 **Nepal House** | Authentic Taste of Nepal | [Visit Site](https://www.nepalhouse.no/) |
+| 🇯🇵 **Starlight LLC** | Global Solutions & Web Platform | [Visit Site](https://starlightllc.jp/) |
+| 🛠️ **ToolsMandu** | All-in-one Developer Utility Suite | [Visit Site](https://toolsmandu.com/) |
+| 📈 **MeroShare Services** | NestJS-based Portfolio Management | [View Repo](https://github.com/aayushsapkota9/nest-meroshare-services) |
+
+#### 🌐 Full Stack & Mobile
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| 🌾 **Krishi Connect** | Empowering Farmers (Backend) | [Play Store](https://play.google.com/store/apps/details?id=app.krishiconnect) |
+| ⏳ **Pomodoro Neon** | Aesthetic Focus Timer & Calendar | [Demo](https://pomodoro-neon-xi.vercel.app/) |
+| 🏆 **CODEFEST** | Checkmate Hackathon Project | [Repo](https://github.com/aayushsapkota9/CODEFEST-checkmate) |
+
+#### 🤖 Robotics & AI
+| Category | Projects |
+| :--- | :--- |
+| **Robotics** | Vector Maze Solver, Line Following, PID Bot, Soccer Bot |
+| **AI/ML** | Handwriting Recognition, Captcha Solver, ML From Scratch |
+
+</div>
 
 ---
 
