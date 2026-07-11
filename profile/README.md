@@ -36,7 +36,7 @@
 total 7
 drwxr-xr-x  aayush  staff  [ Nepal House ](https://www.nepalhouse.no/)
 drwxr-xr-x  aayush  staff  [ Starlight LLC ](https://starlightllc.jp/)
-drwxr-xr-x  aayush  staff  [ ToolsMandu ](https://toolsmandu.com/)
+drwxr-xr-x  aayush  staff  [ ToolsMandu ](https://web.archive.org/web/20260215191137/https://www.toolsmandu.com/)
 drwxr-xr-x  aayush  staff  [ MeroShare Services ](https://github.com/aayushsapkota9/nest-meroshare-services)
 drwxr-xr-x  aayush  staff  [ Krishi Connect ](https://play.google.com/store/apps/details?id=app.krishiconnect)
 drwxr-xr-x  aayush  staff  [ Pomodoro Neon ](https://pomodoro-neon-xi.vercel.app/)
@@ -46,7 +46,7 @@ drwxr-xr-x  aayush  staff  [ CODEFEST ](https://github.com/aayushsapkota9/CODEFE
 <p align="left">
   <a href="https://www.nepalhouse.no/" target="_blank"><img src="https://img.shields.io/badge/Nepal_House-333333?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAbElEQVR4nGNgYGBgYOBiYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGDAAAAA//8DAP//Nf8C/8cAAAA="&logoColor=white" /></a>
   <a href="https://starlightllc.jp/" target="_blank"><img src="https://img.shields.io/badge/Starlight_LLC-333333?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAbElEQVR4nGNgYGBgYOBiYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGDAAAAA//8DAP//Nf8C/8cAAAA="&logoColor=white" /></a>
-  <a href="https://toolsmandu.com/" target="_blank"><img src="https://img.shields.io/badge/ToolsMandu-333333?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAbElEQVR4nGNgYGBgYOBiYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGDAAAAA//8DAP//Nf8C/8cAAAA="&logoColor=white" /></a>
+  <a href="https://web.archive.org/web/20260215191137/https://www.toolsmandu.com/" target="_blank"><img src="https://img.shields.io/badge/ToolsMandu-333333?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAbElEQVR4nGNgYGBgYOBiYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGDAAAAA//8DAP//Nf8C/8cAAAA="&logoColor=white" /></a>
   <a href="https://github.com/aayushsapkota9/nest-meroshare-services" target="_blank"><img src="https://img.shields.io/badge/MeroShare-333333?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://play.google.com/store/apps/details?id=app.krishiconnect" target="_blank"><img src="https://img.shields.io/badge/Krishi_Connect-333333?style=flat-square&logo=googleplay&logoColor=white" /></a>
   <a href="https://pomodoro-neon-xi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Pomodoro_Neon-333333?style=flat-square&logo=vercel&logoColor=white" /></a>
